@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="349f3bfd-ad73-47fc-a806-949cd56d32fe">
+  <producedTypes>
+    <objectType typeId="04e05eae-b42e-488b-b55d-34c4508e2d66" valueTypeId="ff71e46e-5b92-4cd3-bd22-bfc47f6250b5"/>
+    <refType typeId="48e14563-ba07-4874-a860-f8ce20181ff5" valueTypeId="bff8addd-66a7-4db2-b5c4-64704470e7f6"/>
+    <selectionType typeId="d7b58884-93f5-4eb9-8fe8-b841fb0ad595" valueTypeId="4b68badd-d29d-4aae-8455-c6177833244a"/>
+    <listType typeId="62ab853a-db0e-4694-a2bd-56f6cea0a1e6" valueTypeId="88b2fd16-b33b-47e9-b979-4e51ab5b85c3"/>
+    <managerType typeId="25fe07e2-ffa9-4ae0-ba1c-03337fb39272" valueTypeId="77e9d4fb-101b-4598-aa37-db3519c83f7e"/>
+  </producedTypes>
+  <name>gfdgdfg</name>
+  <synonym>
+    <key>ru</key>
+    <value>Gfdgdfg</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.gfdgdfg.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.gfdgdfg.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
