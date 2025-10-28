@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="696f926e-c346-4bb1-9130-80011e9cec75">
+  <producedTypes>
+    <objectType typeId="937224bb-45b5-45df-984f-24ebf3b59aab" valueTypeId="79217c82-6af6-4f99-8c2d-7164fea2f4be"/>
+    <refType typeId="fdc2eb0a-f700-4370-9e43-35ea655d2b0c" valueTypeId="fc94a798-e2dc-4e01-a441-9567e7ad597f"/>
+    <selectionType typeId="ccc11ff5-0ab2-4fec-9eed-bfbe7fd1b064" valueTypeId="fb0f4aef-a7cb-4e99-bcd9-afdeeecf3b1c"/>
+    <listType typeId="ab2d1e13-76c6-46ce-be2c-4e5fcc9c00e4" valueTypeId="29b5f654-41fb-4b8f-8269-3681b87294cc"/>
+    <managerType typeId="2655c375-e1b0-40a6-9b06-7c795a528b79" valueTypeId="67b12027-a6c2-466e-861f-08c444ab023b"/>
+  </producedTypes>
+  <name>Cneltyns</name>
+  <synonym>
+    <key>ru</key>
+    <value>Cneltyns</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.Cneltyns.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.Cneltyns.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
