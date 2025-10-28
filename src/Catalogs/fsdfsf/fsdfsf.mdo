@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="6bf3f117-e469-4f0e-94a1-77807c999735">
+  <producedTypes>
+    <objectType typeId="6866e550-3d07-41aa-b809-e862ff69241a" valueTypeId="638944a2-1753-4ccb-bc95-05685bf0968d"/>
+    <refType typeId="395ef078-760c-4b88-ad8c-2e0ff0433fbe" valueTypeId="68ceb79e-62d4-4764-ae0d-88aaf961a212"/>
+    <selectionType typeId="a675f9cf-4469-4b01-9d33-414107169951" valueTypeId="2b8278e6-7d6a-43d2-b3f9-f3a719d62d6d"/>
+    <listType typeId="4d582ecc-0e87-46c1-b265-9d34cf355672" valueTypeId="66970a01-5ec4-40c5-9ad4-03410fd440d0"/>
+    <managerType typeId="580e077e-a747-45d2-8253-96b62c6afc19" valueTypeId="14aa3968-aace-41af-8e4f-2f4c7009d71c"/>
+  </producedTypes>
+  <name>fsdfsf</name>
+  <synonym>
+    <key>ru</key>
+    <value>Fsdfsf</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.fsdfsf.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.fsdfsf.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
